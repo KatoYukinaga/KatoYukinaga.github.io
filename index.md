@@ -1,13 +1,18 @@
-# 名前
+[日本語](ja.html)
 
-所属（大学・研究室名／会社名・役職）
+# Yukinaga Kato
 
-## 研究内容
+Okayama University, Intelligent Robotics and Control Laboratory
 
-取り組んでいる研究の概要を2〜3文で書きます。
+## Research
 
-## 主な業績
+My research lies in intelligent robotics and soft computing, with a focus on robot perception. I aim to realize self-organizing intelligence and work on self-supervised learning of traversability and on digital twins.
 
-- 代表的な論文や受賞を2〜3件
+## Selected Publications
 
-業績の一覧は[researchmap](researchmapのプロフィールURL)をご覧ください。
+- Yukinaga Kato, Yuichiro Toda, and Takayuki Matsuno, “Construction of a Lightweight Simulation Environment Based on Topological Mapping,” IEEE Access, 2026, doi: 10.1109/ACCESS.2026.3692819.
+- Yukinaga Kato, Yuichiro Toda, Takayuki Matsuno, Yoshimasa Nakamura, and Toshiki Masuda, “Self-Learning Method of Traversability Perception using ATC-DT for an Autonomous Mobile Robot,” 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, June, 2025, doi: 10.1109/IJCNN64981.2025.11228805.
+
+
+
+For the full list, see my [researchmap](https://researchmap.jp/yukinaga_kato).
