@@ -6,7 +6,6 @@ description: Second-year Master's student, Graduate School of Environmental, Lif
 **Yukinaga Kato**  
 Second-year Master's student, Okayama University
 
-
 [日本語](ja.html)
 
 ## Research
