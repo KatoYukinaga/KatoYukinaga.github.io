@@ -3,14 +3,13 @@ title: Yukinaga Kato
 description: Second-year Master's student, Graduate School of Environmental, Life, Natural Science and Technology, Okayama University
 ---
 
-**Yukinaga Kato**  
-Second-year Master's student, Okayama University
-
 [日本語](ja.html)
 
 ## Research
 
-My research lies in intelligent robotics and soft computing, with a focus on robot perception. I aim to realize self-organizing intelligence and work on self-supervised learning of traversability and on digital twins.
+- **Field:** Intelligent robotics and soft computing, with a focus on robot perception
+- **Goal:** Realizing self-organizing intelligence
+- **Topics:** Self-supervised learning of traversability; digital twins
 
 ## Selected Publications
 
