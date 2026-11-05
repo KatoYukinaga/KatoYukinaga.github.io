@@ -3,6 +3,10 @@ title: Yukinaga Kato
 description: Second-year Master's student, Graduate School of Environmental, Life, Natural Science and Technology, Okayama University
 ---
 
+**Yukinaga Kato**  
+Second-year Master's student, Okayama University
+
+
 [日本語](ja.html)
 
 ## Research
