@@ -2,7 +2,7 @@
 
 # Yukinaga Kato
 
-Okayama University, Intelligent Robotics and Control Laboratory
+Second-year Master’s student, Graduate School of Environmental，Life，Natural Science and Technology, Okayama University
 
 ## Research
 
